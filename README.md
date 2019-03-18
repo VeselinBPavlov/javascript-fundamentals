@@ -16,9 +16,6 @@ The JavaScript Fundamentals course builds basic programming skills with JavaScri
 06. Objects and JSON
 07. Canvas 2D
 
-## Status:
-Completed.
-
 ## Certificate:
 <img src="certificate.jpeg"/>
  
